@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-tests",
+  "type": "module", 
+  "version": "1.0.0",
+  "description": "Repository for working in the Hexlet Tests course",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiKiss/hexlet-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeiKiss/hexlet-tests/issues"
+  },
+  "homepage": "https://github.com/SergeiKiss/hexlet-tests#readme"
+}
